@@ -1,35 +1,27 @@
-# Hi, I'm Ahmed Abbas 👋
+# 💫 About Me:
+🎓 CS Student @ KSIU — graduating July 2026<br>🔭 Currently building ACR-QA — automated code review platform with RAG + Prometheus<br>🦀 Built Redis from scratch in Rust (TCP, concurrency, full data structures)<br>🏦 Ex R&D Intern @ NBK Egypt — shipped 4 prototypes to internal banking teams<br>🌍 Based in Cairo, Egypt — UTC+2, open to remote roles<br>💬 Ask me about Python, Rust, Docker, DevOps, or RAG pipelines
 
-Backend & DevOps Engineer based in Cairo, Egypt.
-Graduating July 2026 from King Salman International University (Software Engineering).
-Open to remote backend/DevOps roles.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-mahmoud-abbas) 
 
-## 🔨 What I Build
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Sidequest](https://img.shields.io/badge/sidequest-%23101227.svg?style=for-the-badge&logo=sidequest&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmed-145&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmed-145&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-145&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- **ACR-QA** — Automated code review platform. Reviews GitHub PRs automatically and posts AI-generated inline comments using RAG + Cerebras LLM. Built with Python, FastAPI, PostgreSQL, Redis, Prometheus, Grafana, Docker Compose. Production-grade observability stack.
-- **Redis from Scratch (Rust)** — Multithreaded in-memory key-value store built from TCP sockets up. Supports Strings, Lists, Sets, Sorted Sets, TTL, and concurrent clients using Arc/Mutex. No external libraries.
-- **URL Shortener + Monitoring Stack** — Containerized URL shortener with full observability: 3 Grafana dashboards (19 panels), Prometheus metrics, GitHub Actions CI/CD, k6 load testing (225 req/sec, 99.93% uptime), Kubernetes manifests, Terraform IaC.
-- **NBK Egypt Internship Projects** — 4 production-adjacent prototypes for Egypt's National Bank of Kuwait: credit risk ML pipeline, OFAC sanctions screening with RAG, secure PDF portal (Java Spring Boot + RSA/AES encryption), Outlook→SFTP automation.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmed-145&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠 Stack
-
-**Languages:** Python · Rust · Java · JavaScript · SQL  
-**Backend:** FastAPI · Spring Boot · Express.js  
-**DevOps:** Docker · Kubernetes · GitHub Actions · Prometheus · Grafana · Terraform  
-**Databases:** PostgreSQL · Redis · SQLite · Oracle  
-**AI/ML:** RAG · Ollama · scikit-learn · Cerebras LLM  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmed-145&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ahmed-145&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Abbas-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ahmed-mahmoud-abbas)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Ahmeed145-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Ahmeed145/)
-
----
-
-*Currently: Final semester. Open to remote roles starting July 2026.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
